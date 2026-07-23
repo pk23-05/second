@@ -28,8 +28,8 @@ To start project use commends
 ### First command
    To start Project use 'git init' command
 ### Code Part:
-  '''python
+  ```python
   def hello();
      print('hello world')
    hello()
-   '''
+   ```
