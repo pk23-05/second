@@ -23,4 +23,4 @@ To start project use commends
 ### Website link:[ccitworld](https://www.ccit.world.com)
 
 ### Project Screen Shot:
-[project screen](https://winworldpc.com/screenshot/cb86e280-9816-1128-1711-c3a4e284a2ef/000ce280-9829-4067-11c3-a4c2a83d7054)
+![project screen](https://kubadownload.com/site/assets/files/3230/ms-project-screenshot.730x0.webp)
