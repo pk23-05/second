@@ -26,6 +26,7 @@ To start project use commends
 ![project screen](https://www.todaysproject.com/wp-content/uploads/2016/06/PWA-Resource-Availability.png)
 
 ### First command
+---
    To start Project use 'git init' command
 ### Code Part:
   ```python
