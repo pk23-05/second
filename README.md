@@ -1,8 +1,11 @@
 # Second Project
+
 ### Sub-title of project
+
 #### Introduction
 - Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, sint nihil! Quisquam, dolor nisi eaque error totamquis!   Est cum illum asperiores. Culpa dolorem tenetur iste hic
 - esse possimus doloremque Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni veniam quia dolores 
+
 ### Content
 - Introduction
 - Abstract
@@ -12,3 +15,7 @@
 - Screen shot
 - Code
 - conclusion
+
+### how to start
+To start project use commends
+> git init start second project
