@@ -23,4 +23,4 @@ To start project use commends
 ### Website link:[ccitworld](https://www.ccit.world.com)
 
 ### Project Screen Shot:
-![project screen](https://kubadownload.com/site/assets/files/3230/ms-project-screenshot.730x0.webp)
+![project screen](https://www.todaysproject.com/wp-content/uploads/2016/06/PWA-Resource-Availability.png)
